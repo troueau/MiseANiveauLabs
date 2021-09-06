@@ -77,7 +77,7 @@ Vous obtenez la structure de projet jointe
 Par exemple si vous exécutez la commande
     
     mvn archetype:generate \
-        -DgroupId=fr.esir.mdi.ci \
+        -DgroupId=fr.istic.mdi.ci \
         -DartifactId=tpmaven
 
 Vous obtiendrez l’architecture suivante :
@@ -86,7 +86,7 @@ Vous obtiendrez l’architecture suivante :
     |   |-- main
     |   |   `-- java
     |   |       `-- fr
-    |   |           `-- esir
+    |   |           `-- istic
     |   |               `-- mdi
     |   |                   `-- ci
     |   |                       `-- tpmaven
@@ -94,7 +94,7 @@ Vous obtiendrez l’architecture suivante :
     |   `-- test
     |       `-- java
     |           `-- fr
-    |               `-- esir
+    |               `-- istic
     | 	                `-- mdi
     |		            `--ci
     |                           `-- tpmaven

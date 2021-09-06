@@ -225,7 +225,7 @@ Désormais vous pouvez passer du rapport CheckStyle au code source en cliquant s
 ### Couverture des tests avec JaCoCo
 
 A quel point les développeurs ont réalisé des tests unitaires ? Quelles parties de l'application n'ont pas été testées ?
-Ecrivez quelques tests en JUnit (_/tpmaven/src/test/java/fr/esir/mdi/ci/tpmaven/FirstPdfTest.java_), et voyez quelle couverture de code vous obtenez. 
+Ecrivez quelques tests en JUnit (_/tpmaven/src/test/java/fr/istic/mdi/ci/tpmaven/FirstPdfTest.java_), et voyez quelle couverture de code vous obtenez. 
 
 	<build>
 		<plugins>

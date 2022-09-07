@@ -60,13 +60,6 @@ public class FirstPdf {
 
     /**
      * TEST JAVADOC
-     */
-    static void uselessMethod() {
-        System.out.println("test of an unused method for error pattern PMD");
-    }
-
-    /**
-     * TEST JAVADOC
      * @param document
      * @throws DocumentException
      */

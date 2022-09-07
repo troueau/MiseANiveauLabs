@@ -55,14 +55,6 @@ public class FirstPdf {
         document.addCreator("Olivier Barais");
 
         //useless code to test PMD
-        int i = 0;
-    }
-
-    /**
-     * TEST JAVADOC
-     */
-    static void uselessMethod() {
-        System.out.println("test of an unused method for error pattern PMD");
     }
 
     /**
